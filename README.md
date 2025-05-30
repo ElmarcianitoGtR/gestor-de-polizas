@@ -42,7 +42,7 @@ Este es un sistema de polizas que utiliza los principios vistos en la clase de c
 
 ```bash
 # Clonar el repositorio
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/ElmarcianitoGtR/gestor-de-polizas.git
 cd sistema-contable
 
 # Instalar dependencias
