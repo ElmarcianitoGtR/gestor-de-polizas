@@ -56,7 +56,7 @@ npm run dev
 
 ```bash
 # En un directorio separado para la API
-pip install fastapi uvicorn sqlalchemy psycopg2-binary
+pip install fastapi uvicorn sqlalchemy psycopg2-binary pydantic-core multipart
 
 # Ejecutar el servidor FastAPI
 uvicorn main:app --reload --port 8000
